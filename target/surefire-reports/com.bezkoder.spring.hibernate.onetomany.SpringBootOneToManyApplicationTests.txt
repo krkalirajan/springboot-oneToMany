@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bezkoder.spring.hibernate.onetomany.SpringBootOneToManyApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.922 s - in com.bezkoder.spring.hibernate.onetomany.SpringBootOneToManyApplicationTests
